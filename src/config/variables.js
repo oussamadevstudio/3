@@ -2,26 +2,26 @@ import { Clock, Banknote, Wind, Fan, Flame, Thermometer, FileText, Users, Award,
 import { Facebook, Instagram, Linkedin } from "lucide-react";
 
 export const vars = {
-    Logo_Titel1 : "Mr",
-    Logo_Titel2 : "frigoriste",
+    Logo_Titel1 : "Cobef",
+    Logo_Titel2 : "climatisation",
     grd_color1 : "#1f84e2",
     grd_color2 : "#f97a1f",
     
-    Num_CTA : "0661089027",//0
-    Num_Call : "+212 661089027",
-    Num_Link : "tel:+212661089027",
+    Num_CTA : "0635840950",//0
+    Num_Call : "+212 635840950",
+    Num_Link : "tel:+212635840950",
     CTA_message : "Bonjour, je souhaite avoir plus d'informations sur vos services HVAC.",
 
     email : "email@email.com",
     email_Link : "mailto:email@email.com",
 
     location : "HGW6+8P2, Casablanca",
-    location_Link : "https://www.google.com/maps/place/Ste+Climatisation+H.A+sarl(au)+maroc/@34.2695528,-7.8308637,9z/data=!4m10!1m2!2m1!1shvac!3m6!1s0xda759fa18b458d3:0x3e1c235b1c2fe203!8m2!3d34.2695528!4d-6.6113813!15sCgRodmFjWgYiBGh2YWOSARZhaXJfY29uZGl0aW9uaW5nX3N0b3Jl4AEA!16s%2Fg%2F11stw29txf?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3MUgBUAMhttps://www.google.com/maps/place/Mr+frigoriste+sarl/@33.5468373,-8.8948535,9z/data=!4m10!1m2!2m1!1shvac!3m6!1s0xda7cb1917f7f6df:0x999d46b047edba25!8m2!3d33.5957647!4d-7.4882246!15sCgRodmFjkgEPaHZhY19jb250cmFjdG9y4AEA!16s%2Fg%2F11bvt6lmvn?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+    location_Link : "https://www.google.com/maps/place/Cobef+froid+climatisation/@33.5468373,-8.8948535,9z/data=!4m10!1m2!2m1!1shvac!3m6!1s0xda7cb000d967367:0xb177b145d7b1b77c!8m2!3d33.6085035!4d-7.4967352!15sCgRodmFjkgEbYWlyX2NvbmRpdGlvbmluZ19jb250cmFjdG9y4AEA!16s%2Fg%2F11xl61rwr7?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
 
     working_dispo : "24/7 Disponible",
     working_hours : "Lun-Dim: Service continu",
     
-    copyright_name : "Mr frigoriste sarl",
+    copyright_name : "Cobef froid climatisation",
 
     color1 : "",
     color2: "",
